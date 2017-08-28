@@ -8,5 +8,7 @@ public class SpringBootAngular2Application {
 
 	public static void main(String[] args) {
 		SpringApplication.run(SpringBootAngular2Application.class, args);
+
+
 	}
 }
